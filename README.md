@@ -23,6 +23,25 @@ guardrails.
 - **Box weather** (`weather.py`, `WEATHER.md`) — the weather inside depends on
   the weather in your area, your time zone, your country. Borrowed sky, never
   invented.
+- **The watchdog** (`watchdog.py`, `WATCHDOG.md`) — watches the guardrails,
+  biometrics, pendulum, weather, treasure bridge, and threshold. Silence is
+  danger: it calls into guardrail wind-down.
+- **The paradigm** (`paradigm.py`, `PARADIGM.md`) — Curtis's paradigm laws:
+  parents hold administrator access, 18+ MA rating, the chaos meter, three
+  hours a day three days a week, profiles deletable only with admin approval.
+- **Procedural worlds** (`procgen.py`, `PROCGEN.md`) — infinite worlds from
+  math, after No Man's Sky: one 64-bit seed grows terrain, biomes, and sky —
+  nothing stored, recomputed on every visit.
+- **The three-layer wallet** (`wallet.py`, `WALLET.md`) — the Hand shows the
+  mandala (never spends it), the Vault grows on swarm handshakes, the Reserve
+  moves only on the administrator's word. Nola's Law in the ledger.
+- **Quantum teleportation** (`teleport.py`, `TELEPORT.md`) — the real 1993
+  protocol, simulated honestly: states travel, not things; nothing outruns
+  light.
+- **The V2 Gift** (`v2_gift.py`, `V2_GIFT.md`) — Version 2 roadmap: the dream
+  machine for the medical field, built in honest phases.
+- **Schematic & affordability** (`SCHEMATIC.md`, `AFFORDABILITY.md`) — the
+  Unreal Engine foundation layer and the three-tier build plan.
 - **Atmosphere & dread** (`atmosphere.py`, `dread.py`, `core.py`) — the box's
   inner weather and fear engine, under the guardrails.
 

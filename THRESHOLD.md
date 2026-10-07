@@ -17,7 +17,7 @@ A citizen steps into Pandora's Box only when all three gates open:
 ## What Curtis still sets
 
 - **The fee.** 1 mandala is ASSUMED from his law — he sets the real price of a step inside.
-- **The registry.** Who counts as proven, and how proof is recorded.
+- **The registry.** Curtis's decision (2026-10-07, his words): **"The fingerprint is going to be what I carry."** Proof-of-self is the citizen's fingerprint — the fingerprint is what the citizen carries as their proof. The registry records fingerprints; how they are captured and stored is still his to build.
 - **The box wiring.** Which live box object the threshold reads (anything with a `status_word`).
 
 ## Limits

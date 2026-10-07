@@ -109,6 +109,11 @@ dependencies, no network, works offline.
 
 ## File layout
 
+> The full architecture — Unreal Engine as the foundation, the box's systems,
+> and the citizen's experience — lives in **SCHEMATIC.md** (with the visual
+> at `assets/pandora-schematic-unreal.png`). The layout below is the Python
+> prototype tier of that schematic.
+
 ```
 scarekit/
     __init__.py      # Engine, armed(), __version__
