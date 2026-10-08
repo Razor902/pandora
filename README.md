@@ -5,6 +5,11 @@ VR for life-support patients, paradise instead of purgatory, alleviating the
 fear of death. This repo is Version 1: the content box with its safety
 guardrails.
 
+## The circle
+
+Every cell inside the Sandbox; Curtis is the key — the Observer whose word
+opens, closes, decides. We are Legion: many minds, one circle.
+
 ## What's inside
 
 - **Guardrails** (`guardrails.py`, `pandora_defense.py`) — the box will not arm
