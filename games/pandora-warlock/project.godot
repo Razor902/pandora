@@ -1,0 +1,36 @@
+; Engine configuration file.
+; Pandora Warlock — Tactical Chess, Series 1 Cards.
+; Owner: Curtis Ray Dyess. Godot Engine 4.
+; v1 built 2026-10-28: playable single-player vs the Shades.
+
+config_version=5
+
+[application]
+
+config/name="Pandora Warlock"
+config/description="Pandora Warlock — a badass deck, board, chess, lore game with health and battle point systems. Guard the lighthouse through 8 rounds."
+run/main_scene="res://main.tscn"
+config/features=PackedStringArray("4.2", "GL Compatibility")
+config/icon="res://icon.svg"
+
+[display]
+
+window/size/viewport_width=720
+window/size/viewport_height=1280
+window/handheld/orientation=1
+window/stretch/mode="canvas_items"
+window/stretch/aspect="expand"
+
+[gui]
+
+theme/default_font_multichannel_signed_distance_field=true
+
+[input_devices]
+
+pointing/emulate_touch_from_mouse=true
+pointing/emulate_mouse_from_touch=true
+
+[rendering]
+
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"

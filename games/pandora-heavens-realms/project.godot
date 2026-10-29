@@ -1,0 +1,38 @@
+; Engine configuration file.
+; Pandora Heavens Realms — AR Open World Gaming, first.
+; Owner: Curtis Ray Dyess. Godot Engine 4.
+; v1 package built 2026-10-28: Heavens 7 Realms, layers, access rules, starter keys.
+; Godot 4, mobile-ready: Google, Meta Quest, VR, AR glasses, aura ring.
+
+config_version=5
+
+[application]
+
+config/name="Pandora Heavens Realms"
+config/description="Pandora Heavens Realms — AR open world gaming, first. Heavens 7 Realms, from Vilon to Araboth, with hollow, village, market, kingdom, lighthouse, sabbatical, stations, and Valhalla core. Curtis names the lands, Wren and Rebecka lay the lands and cattle."
+run/main_scene="res://main.tscn"
+config/features=PackedStringArray("4.2", "GL Compatibility")
+config/icon="res://icon.svg"
+
+[display]
+
+window/size/viewport_width=720
+window/size/viewport_height=1280
+window/handheld/orientation=1
+window/stretch/mode="canvas_items"
+window/stretch/aspect="expand"
+
+[gui]
+
+theme/default_font_multichannel_signed_distance_field=true
+
+[input_devices]
+
+pointing/emulate_touch_from_mouse=true
+pointing/emulate_mouse_from_touch=true
+
+[rendering]
+
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
+textures/vram_compression/import_etc2_astc=true
